@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  /* Nossa paleta Old West */
+  --color-old-gold: #d4af37;
+  --color-leather: #3d2b1f;
+  --color-leather-light: #5c4033;
+  --color-parchment: #f4eade;
+  --color-wood-dark: #1a120b;
+
+  /* Nossas fontes */
+  --font-western: var(--font-western);
+  --font-sans: var(--font-inter);
+}
+
+/* Estilos globais extras */
+body {
+  overflow-x: hidden;
+}
