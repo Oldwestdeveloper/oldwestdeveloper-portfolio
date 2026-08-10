@@ -12,7 +12,7 @@ const projects = [
     image: "/Project_HOTD/htdo1.png",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Oldwestdeveloper/HouseOfTheDragon-FanProject",
-    link: "https://house-of-the-dragon-fan-project.vercel.app/",
+    link: "https://oldwestdeveloper-hotd.vercel.app/",
   },
 ];
 
