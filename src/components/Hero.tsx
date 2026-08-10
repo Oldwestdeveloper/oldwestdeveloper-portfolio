@@ -54,7 +54,7 @@ export default function Hero() {
             Contato
           </Link>
           <a 
-            href="https://drive.google.com/file/d/1Fp7h4h_lTYlfNF2zwDFHYWanAAWvMLNe/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1Xg-RsATF8A5DR2XjLZbBeTf3RK9w3f4d/view?usp=sharing" 
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-400 text-gray-400 font-bold px-8 py-3 rounded-sm hover:border-white hover:text-white transition-all flex items-center justify-center gap-2"
