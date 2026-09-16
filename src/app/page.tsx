@@ -1,3 +1,4 @@
+import Header from "@/components/Header"; // <-- ESSA FOI A LINHA ADICIONADA
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects"; // O Celeiro
 import About from "@/components/About";       // A Porteira
@@ -6,7 +7,7 @@ import Contact from "@/components/Contact";   // O Correio
 import Experience from "@/components/Experience"; 
 
 export default function Home() {
-return (
+  return (
     <div>
       <Header />
       <Hero />
