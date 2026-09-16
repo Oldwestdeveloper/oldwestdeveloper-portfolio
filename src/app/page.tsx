@@ -3,15 +3,18 @@ import Projects from "@/components/Projects"; // O Celeiro
 import About from "@/components/About";       // A Porteira
 import Skills from "@/components/Skills";     // Ferramentas
 import Contact from "@/components/Contact";   // O Correio
+import Experience from "@/components/Experience"; 
 
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center justify-center">
+return (
+    <main>
+      <Header />
       <Hero />
+      <About /> 
+      <Experience /> {/* <-- AQUI ESTÁ A NOSSA LINHA DO TEMPO */}
       <Projects />
-      <About />
       <Skills />
       <Contact />
-    </div>
+    </main>
   );
 }
