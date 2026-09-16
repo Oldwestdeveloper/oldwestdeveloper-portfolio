@@ -13,15 +13,15 @@ const timelineData = [
   },
   {
     id: 2,
-    period: "2022 - 2024",
+    period: "2024 - 2026",
     title: "Análise e Desenvolvimento de Sistemas",
-    place: "Nome da Sua Faculdade",
+    place: "Centro Universitário UniDomBosco",
     description: "Formação técnica afiando os fundamentos da engenharia de software, banco de dados (SQL/NoSQL) e arquitetura de sistemas.",
     type: "education",
   },
   {
     id: 3,
-    period: "2021 - 2022",
+    period: "2024 - Presente",
     title: "Iniciação na Programação",
     place: "Cursos e Bootcamps",
     description: "Os primeiros passos na roça digital. Aprendizado profundo de lógica de programação, JavaScript puro, HTML5 e CSS3.",
