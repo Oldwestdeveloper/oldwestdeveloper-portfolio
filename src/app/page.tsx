@@ -7,7 +7,7 @@ import Experience from "@/components/Experience";
 
 export default function Home() {
 return (
-    <main>
+    <div>
       <Header />
       <Hero />
       <About /> 
@@ -15,6 +15,6 @@ return (
       <Projects />
       <Skills />
       <Contact />
-    </main>
+    </div>
   );
 }
