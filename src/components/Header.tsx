@@ -5,9 +5,10 @@ import Link from 'next/link';
 import { motion } from 'framer-motion';
 
 export default function Header() {
-  const navLinks = [
+const navLinks = [
+    { name: 'A Porteira', href: '#home' },
+    { name: 'A Trilha', href: '#jornada' }, // <-- ADICIONAMOS ESTE
     { name: 'O Celeiro', href: '#projetos' },
-    { name: 'A Porteira', href: '#sobre' },
     { name: 'Ferramentas', href: '#skills' },
     { name: 'Correio', href: '#contato' },
   ];
